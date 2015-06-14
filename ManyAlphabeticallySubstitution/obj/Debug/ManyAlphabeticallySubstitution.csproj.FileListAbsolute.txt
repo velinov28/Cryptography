@@ -1,0 +1,9 @@
+c:\users\stiliyan_lt\documents\visual studio 2012\Projects\ManyAlphabeticallySubstitution\ManyAlphabeticallySubstitution\bin\Debug\ManyAlphabeticallySubstitution.exe.config
+c:\users\stiliyan_lt\documents\visual studio 2012\Projects\ManyAlphabeticallySubstitution\ManyAlphabeticallySubstitution\bin\Debug\ManyAlphabeticallySubstitution.exe
+c:\users\stiliyan_lt\documents\visual studio 2012\Projects\ManyAlphabeticallySubstitution\ManyAlphabeticallySubstitution\bin\Debug\ManyAlphabeticallySubstitution.pdb
+c:\users\stiliyan_lt\documents\visual studio 2012\Projects\ManyAlphabeticallySubstitution\ManyAlphabeticallySubstitution\obj\Debug\ManyAlphabeticallySubstitution.csprojResolveAssemblyReference.cache
+c:\users\stiliyan_lt\documents\visual studio 2012\Projects\ManyAlphabeticallySubstitution\ManyAlphabeticallySubstitution\obj\Debug\ManyAlphabeticallySubstitution.Form1.resources
+c:\users\stiliyan_lt\documents\visual studio 2012\Projects\ManyAlphabeticallySubstitution\ManyAlphabeticallySubstitution\obj\Debug\ManyAlphabeticallySubstitution.Properties.Resources.resources
+c:\users\stiliyan_lt\documents\visual studio 2012\Projects\ManyAlphabeticallySubstitution\ManyAlphabeticallySubstitution\obj\Debug\ManyAlphabeticallySubstitution.csproj.GenerateResource.Cache
+c:\users\stiliyan_lt\documents\visual studio 2012\Projects\ManyAlphabeticallySubstitution\ManyAlphabeticallySubstitution\obj\Debug\ManyAlphabeticallySubstitution.exe
+c:\users\stiliyan_lt\documents\visual studio 2012\Projects\ManyAlphabeticallySubstitution\ManyAlphabeticallySubstitution\obj\Debug\ManyAlphabeticallySubstitution.pdb
